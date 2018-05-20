@@ -1,0 +1,116 @@
+Manifest-Version: 1.0
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: surH1Bs4hR30JclyYkFBB7d7164=
+
+Name: Core/vending-all.tar.xz
+SHA1-Digest: PGz7sIamZ3KmMBJYSvobZ3NkTL4=
+
+Name: busybox-arm
+SHA1-Digest: 1QFWGfPDSnvf7vXW4qgcxgeBh6c=
+
+Name: Core/googlefeedback-all.tar.xz
+SHA1-Digest: vTdfRh8TyAnjkwN21EhwWZTmi1Q=
+
+Name: Core/setupwizarddefault-all.tar.xz
+SHA1-Digest: ABaPrxSBPn5P77yYsEUjixV09nM=
+
+Name: g.prop
+SHA1-Digest: ZEYxBR7AbKv80kzTWxLM809WLSs=
+
+Name: Core/googleonetimeinitializer-all.tar.xz
+SHA1-Digest: rlqt8eFmPLaGutsC+qB1SyNyHsU=
+
+Name: GApps/calsync-all.tar.xz
+SHA1-Digest: w1J8W7TkZADHpgJfReJHmg2QlXo=
+
+Name: GApps/speech-common.tar.xz
+SHA1-Digest: i1+cLxVFwOwPL5npI15InRCF298=
+
+Name: Core/gsfcore-all.tar.xz
+SHA1-Digest: kd0YuFmydgKJIEZQAJHQajlzYa0=
+
+Name: GApps/facedetect-lib-arm.tar.xz
+SHA1-Digest: hI4xCucTmgb94t0Jtk0AFpZQBtI=
+
+Name: zip-arm
+SHA1-Digest: T2ttNwDo2W1VwSfRrkBj1XdDw1E=
+
+Name: installer.sh
+SHA1-Digest: rBniORwMrBhUK7FaT0eFuMPvn+I=
+
+Name: GApps/search-arm.tar.xz
+SHA1-Digest: 1Z2Rtainc2noceElFpZSVoXy3ms=
+
+Name: LICENSE
+SHA1-Digest: sjvzUHSeybcW/FKaD1br6Jx5200=
+
+Name: Optional/swypelibs-lib-arm.tar.xz
+SHA1-Digest: wTXdjtgYYh9+OYCRMpr0lsLbT5w=
+
+Name: Core/gsflogin-all.tar.xz
+SHA1-Digest: j64rhs4MdH9Igj3AFkorAUabS44=
+
+Name: Core/googlebackuptransport-all.tar.xz
+SHA1-Digest: T5MkcmhfPAMxBJd4gzgdGZuYO9E=
+
+Name: GApps/dialerframework-common.tar.xz
+SHA1-Digest: PPZgv5pgGtpKlkDT8RF5ZIbSF2M=
+
+Name: bkup_tail.sh
+SHA1-Digest: ibj5kq9zD30LB2fAgEHcyJHoeM0=
+
+Name: gapps-remove.txt
+SHA1-Digest: gDYuqQDrnDdKKGoHjDIQEoU3fzY=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: c4sR+WEe6zFILmJHLAgIg+ryqvU=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: oB0EIgPnqxW2kgQiykOFf953RjA=
+
+Name: app_densities.txt
+SHA1-Digest: Qhr61PaDZVWBPMMUtSaijAakYBA=
+
+Name: Core/setupwizardtablet-all.tar.xz
+SHA1-Digest: m/ldk9NY5WcZrpsDr1/I2i1Wmwk=
+
+Name: GApps/googletts-arm.tar.xz
+SHA1-Digest: Ocz2BsZFO4zySE/VskxRDDVJcCo=
+
+Name: Core/googlepartnersetup-all.tar.xz
+SHA1-Digest: KpSq6y3O17VY94FdUXB4yEEuj+U=
+
+Name: Core/defaultframework-common.tar.xz
+SHA1-Digest: QugZ5I0iskkD7y0bXo8bfVrryS0=
+
+Name: GApps/faceunlock-all.tar.xz
+SHA1-Digest: OajJ2YlVBGPiQbRU5EU8sn86rxo=
+
+Name: GApps/faceunlock-common.tar.xz
+SHA1-Digest: DEkggBRxQRGw031mZjhdNRNyxr8=
+
+Name: Core/configupdater-all.tar.xz
+SHA1-Digest: xPSUNUJo3A8O2F7lDomLYyBpWLY=
+
+Name: app_sizes.txt
+SHA1-Digest: +bftBzJt2B1vJwqegFwrw9igt/o=
+
+Name: Core/defaultetc-common.tar.xz
+SHA1-Digest: EFoOG5F2l5PRaLvgZhJZm1SAsd0=
+
+Name: GApps/packageinstallergoogle-all.tar.xz
+SHA1-Digest: TPF7aB/B6HMpPYRS26/+mMFch9o=
+
+Name: GApps/faceunlock-lib-arm.tar.xz
+SHA1-Digest: Nz03BF5LO+YJ78DIK1Fru+w2CXM=
+
+Name: xzdec-arm
+SHA1-Digest: kIH+ZhV9O8UTT0QLvSvtvGmOh04=
+
+Name: Core/googlecontactssync-all.tar.xz
+SHA1-Digest: hdO+oGdXqnMaFy2CEn1K9Id8uk4=
+
+Name: Core/gmscore-arm.tar.xz
+SHA1-Digest: 7EcL3iLBwKSG2AxxegPNZS7guuk=
+
